@@ -1,0 +1,11 @@
+{
+  "version": "0.1.14",
+  "notes": "0.1.13→0.1.14：同功能版本递增，用于实际程序内升级验证；保留原数据和配置。",
+  "pub_date": "2026-11-11T14:35:57Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUenhNSkZIQmhOandYZHFHOXZraXE3ZGs2VjFkWDJ6UFRLOW9PeTdRWkVEUTRQeVYrU1grV2ZxRmNSMm1KZW00eWFVYnF1T3hxL2IxTzg1RUxmUzBZODF1RVFTQ09xVXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA3MTA5CWZpbGU6VEhFX0ZJTkFMU18wLjEuMTRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xNApjTVE4ZEg1ZUJDUGV2c2g2ajVFaHdldU1xcjl3TjJmSEN5VFgybnludWNzME0vbnM1V3JYZ1pEY3FDbTV1TjlQT3J0VFRuNlNlNDN0LzJlaHhhdzhCUT09Cg==",
+      "url": "https://github.com/BigBadWoif3/the-finals-updates/releases/download/v0.1.14/THE_FINALS_0.1.14_x64-setup.exe"
+    }
+  }
+}
